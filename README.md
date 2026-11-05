@@ -28,8 +28,8 @@
 #### stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=belcaik&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&hide_title=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belcaik&layout=compact&hide_border=true&theme=transparent&hide_title=true&langs_count=8" alt="Top languages" />
+  <img height="165" src="./profile/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=belcaik&theme=transparent&hide_border=true" alt="GitHub streak" />
 </div>
@@ -37,11 +37,6 @@
 #### recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/belcaik/streams-plugin-interactions/pull/9) in [belcaik/streams-plugin-interactions](https://github.com/belcaik/streams-plugin-interactions)
-2. 🎉 Merged PR [#8](https://github.com/belcaik/streams-plugin-interactions/pull/8) in [belcaik/streams-plugin-interactions](https://github.com/belcaik/streams-plugin-interactions)
-3. 💪 Opened PR [#8](https://github.com/belcaik/streams-plugin-interactions/pull/8) in [belcaik/streams-plugin-interactions](https://github.com/belcaik/streams-plugin-interactions)
-4. 🎉 Merged PR [#7](https://github.com/belcaik/streams-plugin-interactions/pull/7) in [belcaik/streams-plugin-interactions](https://github.com/belcaik/streams-plugin-interactions)
-5. 🎉 Merged PR [#6](https://github.com/belcaik/streams-plugin-interactions/pull/6) in [belcaik/streams-plugin-interactions](https://github.com/belcaik/streams-plugin-interactions)
 <!--END_SECTION:activity-->
 
 ---
