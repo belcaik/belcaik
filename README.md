@@ -37,6 +37,11 @@
 #### recent activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#80](https://github.com/belcaik/streams-tools/pull/80) in [belcaik/streams-tools](https://github.com/belcaik/streams-tools)
+2. 💪 Opened PR [#80](https://github.com/belcaik/streams-tools/pull/80) in [belcaik/streams-tools](https://github.com/belcaik/streams-tools)
+3. 🎉 Merged PR [#79](https://github.com/belcaik/streams-tools/pull/79) in [belcaik/streams-tools](https://github.com/belcaik/streams-tools)
+4. 💪 Opened PR [#79](https://github.com/belcaik/streams-tools/pull/79) in [belcaik/streams-tools](https://github.com/belcaik/streams-tools)
+5. 🎉 Merged PR [#10](https://github.com/belcaik/streams-plugin-now-playing/pull/10) in [belcaik/streams-plugin-now-playing](https://github.com/belcaik/streams-plugin-now-playing)
 <!--END_SECTION:activity-->
 
 ---
