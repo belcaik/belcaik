@@ -37,11 +37,11 @@
 #### recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.3](https://github.com/belcaik/streams-tools/releases/tag/v0.1.3) in [belcaik/streams-tools](https://github.com/belcaik/streams-tools)
-2. 🎉 Merged PR [#83](https://github.com/belcaik/streams-tools/pull/83) in [belcaik/streams-tools](https://github.com/belcaik/streams-tools)
-3. 💪 Opened PR [#83](https://github.com/belcaik/streams-tools/pull/83) in [belcaik/streams-tools](https://github.com/belcaik/streams-tools)
-4. 🔒 Closed issue [#81](https://github.com/belcaik/streams-tools/issues/81) in [belcaik/streams-tools](https://github.com/belcaik/streams-tools)
-5. 🎉 Merged PR [#82](https://github.com/belcaik/streams-tools/pull/82) in [belcaik/streams-tools](https://github.com/belcaik/streams-tools)
+1. 🎉 Merged PR [#1](https://github.com/belcaik/pedrogarrido.dev/pull/1) in [belcaik/pedrogarrido.dev](https://github.com/belcaik/pedrogarrido.dev)
+2. 💪 Opened PR [#1](https://github.com/belcaik/pedrogarrido.dev/pull/1) in [belcaik/pedrogarrido.dev](https://github.com/belcaik/pedrogarrido.dev)
+3. 🚀 Published release [v0.1.3](https://github.com/belcaik/streams-tools/releases/tag/v0.1.3) in [belcaik/streams-tools](https://github.com/belcaik/streams-tools)
+4. 🎉 Merged PR [#83](https://github.com/belcaik/streams-tools/pull/83) in [belcaik/streams-tools](https://github.com/belcaik/streams-tools)
+5. 💪 Opened PR [#83](https://github.com/belcaik/streams-tools/pull/83) in [belcaik/streams-tools](https://github.com/belcaik/streams-tools)
 <!--END_SECTION:activity-->
 
 ---
